@@ -9,4 +9,4 @@ The key takeaway from the EDA and Modeling are
 Performing EDA and statistical analysis to create features can improve results 
 
 Below figure shows the first 100 Result of our model predictions on the test data set.
-<img height=500 src="./Images/Actual_Vs_Prediction.png"/>
+<img height=400 src="./Images/Actual_Vs_Prediction.png"/>
